@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.logo{
+    max-width: 75px;
+    max-height: 75px;
+}
+.podebljan-tekst{
+    font-weight: 700;
+}
+.ikonica{
+    font-size: 50px;  
+}
+.naslov{
+    color: white;
+    padding-bottom: 300px;
+}
+.tekst{
+    color: white;
+    padding-bottom: 250px;
+}
+.pozadina-zop{
+ width: 100%;
+ object-fit: cover;
+ height: 800px;
+ background-image: linear-gradient(rgba(109, 112, 124, 0.7), rgba(3, 3, 3, 0.7)), url(/img/pp-pozadina.jpg);
+}
+.pozadina-zop h1{
+text-align: center;
+color: white;
+padding-top: 500px;
+}
+
+.pozadina-bzr{
+    width: 100%;
+    object-fit: cover;
+    height: 800px;
+    background-image: linear-gradient(rgba(109, 112, 124, 0.7), rgba(3, 3, 3, 0.7)), url(/img/bzr-pozadina.jpg);
+}
+
+.pozadina-bzr h1{
+    text-align: center;
+    color: white;
+    padding-top: 500px;
+}
+.slika{
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+}
+
+.linija{
+    width: 50px;
+    border-bottom: green 2px solid;
+    margin-bottom: 15px;
+}
+.iks{
+    color: white;
+}
+@media screen and (max-width:1100px){
+    .naslov{
+        padding-bottom: 120px;
+    }
+}
+
