@@ -26,7 +26,7 @@
  width: 100%;
  object-fit: cover;
  height: 800px;
- background-image: linear-gradient(rgba(109, 112, 124, 0.7), rgba(3, 3, 3, 0.7)), url(/img/pp-pozadina.jpg);
+ background-image: linear-gradient(rgba(109, 112, 124, 0.7), rgba(3, 3, 3, 0.7)), url(https://ngbusiness.github.io/bootstrap-sajt/img/pp-pozadina.jpg);
 }
 .pozadina-zop h1{
 text-align: center;
@@ -38,7 +38,7 @@ padding-top: 500px;
     width: 100%;
     object-fit: cover;
     height: 800px;
-    background-image: linear-gradient(rgba(109, 112, 124, 0.7), rgba(3, 3, 3, 0.7)), url(/img/bzr-pozadina.jpg);
+    background-image: linear-gradient(rgba(109, 112, 124, 0.7), rgba(3, 3, 3, 0.7)), url(https://ngbusiness.github.io/bootstrap-sajt/img/bzr-pozadina.jpg);
 }
 
 .pozadina-bzr h1{
